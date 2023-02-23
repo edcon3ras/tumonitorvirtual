@@ -1600,7 +1600,7 @@ header.style3.sticky .header-right-btns > a {background-color: #f6f7fb;}
   color: #fff;
   padding-left: 3.125rem;
   padding-right: 3.125rem;
-  border-left: 0;
+  /*border-left: 0;*/
 }
 
 /*===== Event Style 1 =====*/
@@ -5823,3 +5823,6 @@ align-items: center;
   
   }
 
+  .iniciarsesion {
+  max-width: 48%; margin-bottom: 8rem !important;
+}
